@@ -1,5 +1,1 @@
 print('first uploded file using git')
-print('first uploded file using git')
-print('first uploded file using git')
-print('first uploded file using git')
-print('first uploded file using git')
